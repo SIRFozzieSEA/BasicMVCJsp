@@ -17,7 +17,7 @@
 	<description>Demo project MVC with JSP</description>
 
 	<properties>
-		<java.version>15.0</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 
 	<dependencies>
